@@ -31,5 +31,3 @@ http://localhost:3000
 
 ```bash
 sass scss/betterme.scss css/betterme.css
-```
-
